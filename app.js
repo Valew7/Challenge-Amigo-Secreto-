@@ -56,5 +56,7 @@ function reiniciarJuego() {
     document.getElementById("listaAmigos").innerHTML = ""; // borrar la lista
     document.getElementById("resultado").innerHTML = "";   // borrar el resultado
     alert("Juego reiniciado. Puedes agregar nuevos amigos."); // Mensaje de confirmación
+    //deshabilitamos el botón nuevamente
+    document.getElementById("btn-reiniciar").disabled ="true";
 
 }
