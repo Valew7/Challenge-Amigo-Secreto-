@@ -2,9 +2,9 @@
 Proyecto de práctica en JavaScript: implementación de un sorteo de Amigo Secreto con interfaz sencilla en HTML/CSS y lógica de aleatoriedad en JS.
 # Reto: Amigo Secreto - Challenge
 ## Descripción del proyecto :
-puedes sortear de manera aleatoria a los participantes de un Amigo Secreto, colocando los diferentes nombres que quieras que se arrojen aleatoriamente por el pograma.
+Proyecto de práctica en **JavaScript**: implementación de un sorteo de Amigo Secreto con interfaz sencilla en **HTML/CSS** y lógica de aleatoriedad en **JS**. Proyecto llevado a cabo gracias al programa en tecnología: *Alura Latam*
 
-## Características: 
+## 📌 Características: 
 
 - Agregar nombres de los participantes
 - Sortear de forma aleatoria
@@ -19,9 +19,16 @@ puedes sortear de manera aleatoria a los participantes de un Amigo Secreto, colo
 
 ## Novedades:
 - Se agregó un nuevo botón para reiniciar el juego y sus funcionalidades. El botón estará deshabilitado hasta que el usuario sortee el amigo secreto, allí se habilitará nuevamente y limpiará los campos.
+ ## 📚 Aprendizajes  
+Este challenge me permitió practicar:  
+- Manipulación del DOM en JavaScript  
+- Eventos y funciones dinámicas  
+- Uso de `disabled` en botones y control de estados
 
-##📸 Demo:
-Puedes probarlo aquí:
+## 📸 ¿Cómo funciona el programa? :
+
+![Adobe Express - Amigo Secreto - Google Chrome 2025-08-22 11-22-33 (online-video-cutter com)](https://github.com/user-attachments/assets/4aac45d6-9c91-4898-9155-e384944f9c83)
+
   
 ## Contribuciones:
 Si quieres mejorar este proyecto, siéntete libre, ¡Será bienvenido! 🙌
