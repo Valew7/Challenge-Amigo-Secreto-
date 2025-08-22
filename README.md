@@ -29,6 +29,15 @@ Este challenge me permitió practicar:
 
 ![Adobe Express - Amigo Secreto - Google Chrome 2025-08-22 11-22-33 (online-video-cutter com)](https://github.com/user-attachments/assets/4aac45d6-9c91-4898-9155-e384944f9c83)
 
+## 🖥️ Clona este proyecto en tu git bash 
+### 1- Clona este repositorio:  
+   `bash`
+git clone https://github.com/Valew7/Challenge-Amigo-Secreto-.git
+
+### 2- Ingresa a la carpeta del proyecto:
+cd Challenge-Amigo-Secreto-
+
+### 3- Abre el archivo `index.html` en tu navegador favorito para correr la app.
   
 ## Contribuciones:
 Si quieres mejorar este proyecto, siéntete libre, ¡Será bienvenido! 🙌
