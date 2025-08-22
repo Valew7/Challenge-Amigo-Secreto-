@@ -1,6 +1,11 @@
 # Challenge-Amigo-Secreto-
 Proyecto de práctica en JavaScript: implementación de un sorteo de Amigo Secreto con interfaz sencilla en HTML/CSS y lógica de aleatoriedad en JS.
 # Reto: Amigo Secreto - Challenge
+
+## 👩‍💻 Sobre mí
+Soy estudiante/desarrolladora en formación apasionada por la tecnología, el desarrollo web y el diseño.  
+Este proyecto forma parte de mi proceso de aprendizaje con **JavaScript, HTML y CSS**.  
+
 ## Descripción del proyecto :
 Proyecto de práctica en **JavaScript**: implementación de un sorteo de Amigo Secreto con interfaz sencilla en **HTML/CSS** y lógica de aleatoriedad en **JS**. Proyecto llevado a cabo gracias al programa en tecnología: *Alura Latam*
 
@@ -41,3 +46,8 @@ cd Challenge-Amigo-Secreto-
   
 ## Contribuciones:
 Si quieres mejorar este proyecto, siéntete libre, ¡Será bienvenido! 🙌
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
